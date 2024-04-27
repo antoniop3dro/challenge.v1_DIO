@@ -5,7 +5,7 @@
 
 <h3 align="center">Sobre</h3>
 
-<p align="justify">🎓 Desafios propostos durante o curso de Formação Lógica de Programação, realizado na plataforma Digital Innovation One a fim de sedimentar entendimento dos estudos.</p>
+<p align="justify">🎓 Desafios propostos durante o curso de Formação Lógica de Programação, realizado na plataforma Digital Innovation One a fim de sedimentar entendimento dos estudos. Você pode acessar meu perfil DIO <a href="https://www.dio.me/users/se_antoniopedro">clicando aqui</a>.</p>
 
 <h3 align="center">Funcionalidades</h3>
 
@@ -25,7 +25,7 @@
 
 <h3 align="center">About</h3>
 
-<p align="justify">🎓 Challenges proposed during the Logic Programming Formation course, held on the Digital Innovation One platform in order to solidify understanding of the studies.</p>
+<p align="justify">🎓 Challenges proposed during the Logic Programming Formation course, held on the Digital Innovation One platform in order to solidify understanding of the studies. My DIO profile can be viewed <a href="https://www.dio.me/users/se_antoniopedro">right here</a>.</p>
 
 <h3 align="center">Features</h3>
 
