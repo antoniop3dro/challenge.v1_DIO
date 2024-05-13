@@ -1,11 +1,11 @@
 <hr>
 <p align="center">🇧🇷 PT-BR 🇧🇷
 <hr>
-<h2 align="center">Desafios em Formação Lógica de Programação na plataforma DIO</h2>
+<h2 align="center">Projetos práticos realizados durante formação profissional na plataforma Digital Innovation One - DIO</h2>
 
 <h3 align="center">Sobre</h3>
 
-<p align="justify">🎓 Desafios propostos durante o curso de Formação Lógica de Programação, realizado na plataforma Digital Innovation One a fim de sedimentar entendimento dos estudos. Você pode acessar meu perfil DIO <a href="https://www.dio.me/users/se_antoniopedro">clicando aqui</a>.</p>
+<p align="justify">🎓 Desafios propostos durante cursos de formação, realizados na plataforma Digital Innovation One a fim de sedimentar entendimento dos estudos. Você pode acessar meu perfil DIO <a href="https://www.dio.me/users/se_antoniopedro">clicando aqui</a>.</p>
 
 <h3 align="center">Funcionalidades</h3>
 
@@ -21,11 +21,11 @@
 <hr>
 <p align="center">🇺🇸 EN-US 🇺🇸
 <hr>
-<h2 align="center">Logic Programming Formation Challenges on DIO Platform</h2>
+<h2 align="center">Projects completed during professional development courses offered on the Digital Innovation One - DIO platform</h2>
 
 <h3 align="center">About</h3>
 
-<p align="justify">🎓 Challenges proposed during the Logic Programming Formation course, held on the Digital Innovation One platform in order to solidify understanding of the studies. My DIO profile can be viewed <a href="https://www.dio.me/users/se_antoniopedro">right here</a>.</p>
+<p align="justify">🎓 Challenges presented throughout various educational courses, held at the Digital Innovation One platform, with the aim of solidifying comprehension of the studied material. My DIO profile can be viewed <a href="https://www.dio.me/users/se_antoniopedro">right here</a>.</p>
 
 <h3 align="center">Features</h3>
 
