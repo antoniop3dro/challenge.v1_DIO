@@ -1,5 +1,5 @@
 <hr>
-<p align="center">💬 PT-BR 💬
+<p align="center">🇧🇷 PT-BR 🇧🇷
 <hr>
 <h2 align="center">Desafios em Formação Lógica de Programação na plataforma DIO</h2>
 
@@ -19,7 +19,7 @@
 
 <p align="justify">📩 Para mais informações ou feedback, entre em contato através do <a href="https://www.linkedin.com/in/antoniop3dro/">LinkedIn</a>.</p>
 <hr>
-<p align="center">💬 EN-US 💬
+<p align="center">🇺🇸 EN-US 🇺🇸
 <hr>
 <h2 align="center">Logic Programming Formation Challenges on DIO Platform</h2>
 
